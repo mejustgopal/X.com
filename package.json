@@ -1,0 +1,21 @@
+{
+  "name": "x.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^7.0.6"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38"
+  }
+}
